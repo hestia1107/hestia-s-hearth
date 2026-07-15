@@ -8,3 +8,8 @@ body {
     color: #FAEBD7;
     background-color: #4E0606;
 }
+
+.content {
+    display: inline-block;
+    text-align: left;
+}
